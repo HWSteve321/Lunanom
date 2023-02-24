@@ -18,4 +18,4 @@ npm start
 ```
 # Frontend by DazaSeal
 		      
-# Backend by <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and Abnumality
+# Backend by HWSteve
